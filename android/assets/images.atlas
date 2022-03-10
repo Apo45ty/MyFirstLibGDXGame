@@ -1,0 +1,237 @@
+
+images.png
+size: 8192,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg (1)
+  rotate: false
+  xy: 3840, 1386
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (2)
+  rotate: false
+  xy: 0, 2466
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (3)
+  rotate: false
+  xy: 1920, 2466
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (4)
+  rotate: false
+  xy: 0, 306
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (5)
+  rotate: false
+  xy: 1920, 1386
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (6)
+  rotate: false
+  xy: 3840, 2466
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (7)
+  rotate: false
+  xy: 1920, 306
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (8)
+  rotate: false
+  xy: 5760, 2466
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+bg (9)
+  rotate: false
+  xy: 0, 1386
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+joystick_ball
+  rotate: false
+  xy: 3840, 1298
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+joystick_frame
+  rotate: false
+  xy: 0, 65
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+playeridle1
+  rotate: false
+  xy: 240, 273
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+playeridle2
+  rotate: false
+  xy: 3928, 1323
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+playeridle3
+  rotate: false
+  xy: 0, 0
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+playeridle4
+  rotate: false
+  xy: 3870, 1268
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+playerrundown1
+  rotate: false
+  xy: 3928, 1353
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+playerrundown2
+  rotate: false
+  xy: 3840, 1235
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+playerrundown3
+  rotate: false
+  xy: 30, 34
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+playerrundown4
+  rotate: false
+  xy: 3840, 1265
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+playerrundown5
+  rotate: false
+  xy: 240, 242
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+playerrunleft1
+  rotate: false
+  xy: 5760, 2432
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+playerrunleft2
+  rotate: false
+  xy: 5790, 2434
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+playerrunleft3
+  rotate: false
+  xy: 7680, 3512
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+playerrunleft4
+  rotate: false
+  xy: 7710, 3514
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+playerrunleft5
+  rotate: false
+  xy: 0, 31
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+playerrunright
+  rotate: false
+  xy: 5760, 2371
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+playerrunright2
+  rotate: false
+  xy: 5790, 2405
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+playerrunright3
+  rotate: false
+  xy: 7680, 3451
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+playerrunright4
+  rotate: false
+  xy: 5820, 2437
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+playerrunup1
+  rotate: false
+  xy: 270, 276
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+playerrunup2
+  rotate: false
+  xy: 7680, 3480
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+playerrunup3
+  rotate: false
+  xy: 5760, 2400
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+tile
+  rotate: false
+  xy: 3958, 1356
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
